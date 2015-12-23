@@ -1,7 +1,7 @@
 name: Groeneweg
 favicon: null
-layout_spectrum: 0.2859323506709188
-typography_spectrum: 0.6416053422726691
+layout_spectrum: 1
+typography_spectrum: 0.23144
 cta:
   domain: null
   bucket: null
