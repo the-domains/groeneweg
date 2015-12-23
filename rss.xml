@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Groeneweg]]></title>
         <description><![CDATA[Groeneweg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/groeneweg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 20:13:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 20:14:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/groeneweg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[eSoap]]></title>
+            <description><![CDATA[<article><h1>eSoap</h1><p>Take Over!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d1791735901d750679b0997e49bae71e85d08af.jpg"></article>]]></description>
+            <link>https://thegrid.ai/groeneweg/esoap/index.html</link>
+            <guid isPermaLink="false">fe4a45d3-acd9-4af3-b80d-189966687d65</guid>
+            <pubDate>Wed, 23 Dec 2015 20:14:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/459d524d-32c7-4de2-a3bf-534e3e154107.jpg">]]></description>
-            <link>undefined06c4d515-0c36-4325-90c1-3752ea229451/index.html</link>
+            <link>https://thegrid.ai/groeneweg/06c4d515-0c36-4325-90c1-3752ea229451/index.html</link>
             <guid isPermaLink="false">06c4d515-0c36-4325-90c1-3752ea229451</guid>
             <pubDate>Wed, 23 Dec 2015 20:13:17 GMT</pubDate>
         </item>
