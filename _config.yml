@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Me
+    id: 5e47f24d-9478-4267-b61b-0478c7463667
+    type: content
 favicon: null
 title: Groeneweg
 description: Motivation to Learn
