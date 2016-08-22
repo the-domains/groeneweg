@@ -1,19 +1,4 @@
-name: Groeneweg
-favicon: null
-layout_spectrum: 0.50794
 typography_spectrum: 0.23144
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.08381548314355314
   saturation: 0.3187532611191273
   rhythmicContrast: 0.3748316364362836
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50794
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Groeneweg
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Groeneweg
 purpose: []
